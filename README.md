@@ -1,20 +1,20 @@
 # NXOpen C# Tutorials
 
-Code accompanying my YouTube channel 
-https://www.youtube.com/@DevOpaX
+Welcome to the **NX Open C# Tutorials** repository!
+This repository contains source code, examples, and project files featured in my YouTube tutorials
+https://www.youtube.com/@DevOpaX 
 
-## Episode 1 - Getting Started
+Whether you're a beginner learning NX automation or an experienced developer looking to improve your NX Open skills, 
+you'll find practical examples and hands-on projects here.
 
-| Chapter | Topic | Code |
-|----------|---------|---------|
-| 1 | Setup NXOpen Environment | Link |
-| 2 | Connecting to NX | Link |
-| 3 | First Journal | Link |
+The C# code files are designated according to the timestamp of the corresponding video.
 
-## Episode 2 - Geometry Creation
 
-| Chapter | Topic | Code |
-|----------|---------|---------|
-| 1 | Create Block | Link |
-| 2 | Create Cylinder | Link |
-| 3 | Create Hole | Link |
+## Play list 1 - Automate Part with NXOpen C#
+
+| Chapter | Topic
+|----------|---------
+| 01 | Introduction to NXOpen
+| 02 | Configuring Visual Studio for NXOpen
+
+
