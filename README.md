@@ -17,4 +17,5 @@ The C# code files are designated according to the timestamp of the corresponding
 | 01 | Introduction to NXOpen
 | 02 | Configuring Visual Studio for NXOpen
 | 03 | Manage Attributes with NXOpen
+| 04 | Manage Expressions with NXOpen
 
