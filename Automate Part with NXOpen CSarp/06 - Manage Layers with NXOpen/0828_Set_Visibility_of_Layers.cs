@@ -1,0 +1,49 @@
+using NXOpen;
+using NXOpen.Layer;
+using System;
+
+namespace Layers
+{
+    public class Program
+    {
+        private static Session theSession = Session.GetSession();
+        private static UI theUI = UI.GetUI();
+
+        public static void Main(string[] args)
+        {
+
+            Part workPart = theSession.Parts.Work;
+
+            try
+            {
+                //Declare a layer manager
+				LayerManager layers = WorkPart.Layers;
+				
+				//Change the work Layer
+				layers.WorkLayer = 1;
+				
+				//Change state of layers
+				layers.SetState(21, State.Visible, true);
+				layers.SetState(61, State.Hidden, true);
+
+            }
+            catch (Exception ex)
+            {
+                theUI.NXMessageBox.Show("NX Open", NXMessageBox.DialogType.Error, ex.Message);
+            }
+
+        }
+
+        public static int GetUnloadOption(string arg)
+        {
+            return System.Convert.ToInt32(Session.LibraryUnloadOption.Immediately);
+
+            //return System.Convert.ToInt32(Session.LibraryUnloadOption.Explicitly);
+
+            //return System.Convert.ToInt32(Session.LibraryUnloadOption.AtTermination);
+
+
+        }
+
+    }
+}
