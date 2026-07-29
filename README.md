@@ -41,3 +41,4 @@ The C# code files are designated according to the timestamp of the corresponding
 | 04 | Manage Expressions with NXOpen
 | 05 | Using Windows Form with NXOpen
 | 06 | Manage Layers with NXOpen
+| 07 | Fetching Feature's Objects with NXOpen
