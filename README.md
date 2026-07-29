@@ -43,3 +43,4 @@ The C# code files are designated according to the timestamp of the corresponding
 | 06 | Manage Layers with NXOpen
 | 07 | Fetching Feature's Objects with NXOpen
 | 08 | Selection with NXOpen
+| 09 | Get Perimeter and Surface Area using Block UI Styler
