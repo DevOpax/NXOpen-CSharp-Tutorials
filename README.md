@@ -7,8 +7,29 @@ https://www.youtube.com/@DevOpaX
 Whether you're a beginner learning NX automation or an experienced developer looking to improve your NX Open skills, 
 you'll find practical examples and hands-on projects here.
 
-The C# code files are designated according to the timestamp of the corresponding video.
+## What You Will Learn
 
+- Introduction to NX Open and NX automation
+- Setting up a C# development environment for NX
+- Understanding Sessions, Parts, and Objects
+- Creating and modifying geometry programmatically
+- Working with sketches and features
+- Accessing model properties and attributes
+- Managing assemblies and components
+- Creating custom journals and applications
+- Error handling and debugging techniques
+- Best practices for NX Open development
+
+## Prerequisites
+
+Before starting this playlist, you should have:
+
+- Siemens NX installed
+- Visual Studio (Community, Professional, or Enterprise)
+- Basic knowledge of C# programming
+- Familiarity with CAD modeling concepts
+
+The C# code files are designated according to the timestamp of the corresponding video.
 
 ## Play list 1 - Automate Part with NXOpen C#
 
@@ -18,4 +39,6 @@ The C# code files are designated according to the timestamp of the corresponding
 | 02 | Configuring Visual Studio for NXOpen
 | 03 | Manage Attributes with NXOpen
 | 04 | Manage Expressions with NXOpen
+| 05 | Using Windows Form with NXOpen
+
 
