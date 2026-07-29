@@ -7,6 +7,10 @@ https://www.youtube.com/@DevOpaX
 Whether you're a beginner learning NX automation or an experienced developer looking to improve your NX Open skills, 
 you'll find practical examples and hands-on projects here.
 
+The code is free to use.
+If you use or adapt it, put a link to my YouTube channel.
+I will be very helpful to you, thank you.
+
 ## What You Will Learn
 
 - Introduction to NX Open and NX automation
@@ -50,3 +54,4 @@ The C# code files are designated according to the timestamp of the corresponding
 | Chapter | Topic
 |----------|---------
 | 01 | Loop Through Assembly Components
+| 02 | Export Bill of Materials (BOM)
