@@ -37,23 +37,23 @@ The C# code files are designated according to the timestamp of the corresponding
 
 ## Course 1 - Automate Part with NXOpen C#
 
-| Chapter | Topic
-|----------|---------
-| 01 | Introduction to NXOpen
-| 02 | Configuring Visual Studio for NXOpen
-| 03 | Manage Attributes with NXOpen
-| 04 | Manage Expressions with NXOpen
-| 05 | Using Windows Form with NXOpen
-| 06 | Manage Layers with NXOpen
-| 07 | Fetching Feature's Objects with NXOpen
-| 08 | Selection with NXOpen
-| 09 | Get Perimeter and Surface Area using Block UI Styler
+| Chapter | Topic | Update
+|----------|---------|---------
+| 01 | Introduction to NXOpen | 07/29/2026
+| 02 | Configuring Visual Studio for NXOpen | 07/29/2026
+| 03 | Manage Attributes with NXOpen | 07/29/2026
+| 04 | Manage Expressions with NXOpen | 07/29/2026
+| 05 | Using Windows Form with NXOpen | 07/29/2026
+| 06 | Manage Layers with NXOpen | 07/29/2026
+| 07 | Fetching Feature's Objects with NXOpen | 07/29/2026
+| 08 | Selection with NXOpen | 07/29/2026
+| 09 | Get Perimeter and Surface Area using Block UI Styler | 07/29/2026
 
 ## Course 2 - Automate Assembly with NXOpen C#
 
-| Chapter | Topic
-|----------|---------
-| 01 | Loop Through Assembly Components
-| 02 | Export Bill of Materials (BOM)
-| 03 | Get Assembly Constraints And Referencies
-| 04 | Create Assembly Constraints
+| Chapter | Topic | Update
+|----------|---------|---------
+| 01 | Loop Through Assembly Components | 07/31/2026
+| 02 | Export Bill of Materials (BOM) | 07/31/2026
+| 03 | Get Assembly Constraints And Referencies | 08/03/2026
+| 04 | Create Assembly Constraints | 08/03/2026
