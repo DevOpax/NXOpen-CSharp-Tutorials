@@ -35,7 +35,7 @@ Before starting this playlist, you should have:
 
 The C# code files are designated according to the timestamp of the corresponding video.
 
-## Play list 1 - Automate Part with NXOpen C#
+## Course 1 - Automate Part with NXOpen C#
 
 | Chapter | Topic
 |----------|---------
@@ -49,9 +49,11 @@ The C# code files are designated according to the timestamp of the corresponding
 | 08 | Selection with NXOpen
 | 09 | Get Perimeter and Surface Area using Block UI Styler
 
-## Play list 2 - Automate Assembly with NXOpen C#
+## Course 2 - Automate Assembly with NXOpen C#
 
 | Chapter | Topic
 |----------|---------
 | 01 | Loop Through Assembly Components
 | 02 | Export Bill of Materials (BOM)
+| 03 | Get Assembly Constraints And Referencies
+| 04 | Create Assembly Constraints
