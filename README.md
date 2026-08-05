@@ -57,3 +57,4 @@ The C# code files are designated according to the timestamp of the corresponding
 | 02 | Export Bill of Materials (BOM) | 07/31/2026
 | 03 | Get Assembly Constraints And Referencies | 08/03/2026
 | 04 | Create Assembly Constraints | 08/03/2026
+| 05 | Manage Arrangement with NXOpen | 08/05/2026
