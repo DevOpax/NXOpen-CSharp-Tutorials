@@ -58,3 +58,8 @@ The C# code files are designated according to the timestamp of the corresponding
 | 03 | Get Assembly Constraints And Referencies | 08/03/2026
 | 04 | Create Assembly Constraints | 08/03/2026
 | 05 | Manage Arrangement with NXOpen | 08/05/2026
+
+## Course 3 - Automate Drawing with NXOpen C#
+| Chapter | Topic | Update
+|----------|---------|---------
+| 01 | Automate Drafting Views with DesignCenter NX in C# | 02/10/2026
